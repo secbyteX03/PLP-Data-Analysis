@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
-PLP Assignment: Data Analysis with Pandas and Matplotlib
+PLP Data Analysis Assignment
+Analyzing the Iris dataset using pandas and matplotlib.
+
+Author: Magret Faith
 This script performs data analysis and visualization on the Iris dataset loaded from a CSV file.
 """
 

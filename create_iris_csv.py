@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
-Helper script to create and save the Iris dataset as a CSV file.
+Helper script to generate the Iris dataset as a CSV file with dates.
+This is used to meet the assignment requirement of loading data from a CSV file.
+
+Author: Magret Faith
 """
 
 from sklearn import datasets

@@ -2,6 +2,8 @@
 
 ## 🎯 Assignment Overview
 
+**Author:** Magret Faith
+
 This project demonstrates data analysis and visualization skills using Python's pandas and matplotlib libraries. The assignment analyzes the famous Iris dataset to showcase data loading from CSV, exploration, statistical analysis, and visualization techniques.
 
 ## 📋 Assignment Requirements
@@ -334,6 +336,7 @@ This assignment demonstrates proficiency in:
 
 ## 👨‍💻 Author Information
 
+- **Name**: Magret Faith
 - **Course**: PLP (Programming Learning Program)
 - **Assignment**: Data Analysis with Pandas and Matplotlib
 - **Date**: August 2025
